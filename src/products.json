@@ -1,0 +1,82 @@
+[
+    {
+        "id":"1",
+        "title":"Elma",
+        "description":"Yeşil elma",
+        "image":"https://www.greenada.com/Uploads/UrunResimleri/buyuk/greenadataze-elma-granny-smith-a4af.png",
+        "tags":"tag1,tag2,tag3",
+        "price":10
+    },
+    {
+        "id":"2",
+        "title":"Karpuz",
+        "description":"Adana karpuz",
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/macrocenter/product/27191010/karpuz-isl-kg--3ee2e7-1650x1650.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":8
+    },
+    {
+        "id":"3",
+        "title":"Kıyma (Az yağlı)",
+        "description":"Dana Kıyma (Kg)",
+        "image":"https://d2uiaykj5yb3c0.cloudfront.net/tahtakale/img/p/a1d37048-5c44-4c67-b457-76a8e13dc1e3.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":155
+    },
+    {
+      "id": "4",
+      "title": "Makarna",
+      "description": "Pastavilla Makarna",
+      "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05030726/05030726-afb568-1650x1650.jpg",
+      "tags": "tag1,tag2,tag3",
+      "price": 6
+    },
+    {
+      "id": "5",
+      "title": "Çikolata",
+      "description": "ETİ sütlü çikolata",
+      "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07036376/07036376-592516-1650x1650.png",
+      "tags": "tag1,tag2,tag3",
+      "price": 9
+    },
+    {
+        "id":"6",
+        "title":"Süt",
+        "description":"İçim doğal süt",
+        "image":"https://ayb.akinoncdn.com/products/2019/05/20/184/36ad9307-4a9a-44a9-8fde-315bb0b82137_size780x780_quality60_cropCenter.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":12
+    },
+    {
+        "id":"7",
+        "title":"Yoğurt",
+        "description":"Sütaş kaymaksız doğal yoğurt",
+        "image":"https://www.peynircibaba.com/image/catalog/urunler/8690767714924.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":36
+    },
+    {
+        "id":"8",
+        "title":"Külah Dondurma",
+        "description":"Algida Cornetto",
+        "image":"https://www.onurmarket.com/Uploads/UrunResimleri/thumb/1133725-4-7394.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":20
+    },
+    {
+        "id":"9",
+        "title":"Ekmek",
+        "description":"Ekmek (Adet)",
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120000/05120000-a957e2-1650x1650.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":4
+    },
+    {
+        "id":"10",
+        "title":"Sıvı Deterjan",
+        "description":"Beyazlar için sıvı deterjan",
+        "image":"https://www.omo.com/images/jw6al4qorxz1/2McQyZ3ZrwFAUOirkxZnm0/9ac126099bf8c7c1b851473b2567755d/ODY4MzEzMDAxODY2OC4wMS5wbmc/1100w-1100h/omo-hijyen-s%C4%B1v%C4%B1-deterjan-paket-at%C4%B1%C5%9F.jpg",
+        "tags":"tag1,tag2,tag3",
+        "price":100
+    }
+]

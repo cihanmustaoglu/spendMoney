@@ -1,0 +1,72 @@
+.order-list li {
+    padding: 0;
+    position: relative;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+    padding-bottom: 10px;
+}
+
+.order-list-img {
+    float: left;
+    width: 30%;
+    position: relative;
+}
+
+.order-list-details {
+    float: left;
+    width: 70%;
+    padding-left: 10px;
+}
+
+.order-list-img img {
+    width: 100%;
+    height: 67px;
+    border-radius: 10px;
+}
+
+.order-list-details h4 {
+    text-align: left;
+    font-weight: 600;
+    font-size: 13px;
+    margin-bottom: 9px;
+}
+
+.order-list-details h4.title-without-extras {
+    margin-bottom: 24px;
+}
+
+.order-list-details h4 small {
+    color: #555;
+    font-weight: 500;
+}
+
+.order-list-price {
+    position: absolute;
+    right: 0;
+    top: -1px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #555;
+    margin-top: 0;
+}
+
+.order-list-delete {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 23px;
+    font-weight: 600;
+    /* color: #f25c04; */
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.order-list-delete a,
+.order-list-delete a:hover,
+.order-list-delete a:focus,
+.order-list-delete a:visited {
+    /* color: #f25c04; */
+    outline: none;
+}
