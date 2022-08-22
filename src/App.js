@@ -5,6 +5,7 @@ import styles from "./styles/styles";
 import Product from "./components/product";
 import { useSelector } from "react-redux";
 
+
 function App() {
   const [basket, setBasket] = useState([]);
   const [total, setTotal] = useState(0);
